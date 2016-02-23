@@ -1,4 +1,4 @@
-# Needleman Wunsch Algorithm Implemantion in Python
+# Needleman Wunsch Algorithm Implementation in Python
 CS599 graduate course Homework 3:
 - Implementation of the Needleman Wunsch algorithm in python.
 - Problem #1: Implement Needleman-Wunsch algorithm
